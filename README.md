@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DaltonBorges
 - 👀 I’m interested in knowledge.
 - 🌱 I’m currently learning PHP.
-- 💞️ I’m looking to collaborate on CSS.
 - 📫 How to reach me: You don't.
 
 <!---
